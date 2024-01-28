@@ -49,4 +49,3 @@ Hinweis: Sie müssen sich NICHT an diesen Ablauf halten - wichtig ist nur, dass 
 (4) Implementieren Sie eine Funktion, welche für eine gegebene Mindestreichweite und Farbe die passenden Autos ausgibt.
 (5) Führen Sie die in den Schritten 1-4 erstellten Bestandteile zu einem funktionsfähigen Programm zusammen.
 
-![image](https://github.com/claner2804/Methoden-der-Softwareentwicklung-1/assets/131294860/c18fd6a9-f2e0-4bda-9fd0-6bd7690e889b)
